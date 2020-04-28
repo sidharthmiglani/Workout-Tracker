@@ -1,8 +1,9 @@
 # Workout Tracker
-#
+###
 ### A Web-app that lets you sign up - store any kind of workout data and allows you to Add/Track/Edit/Delete your workouts at any time!
-#
-#
+###
+###
+
 #### Technologies/ Libraries 
 * [**Node**](https://www.nodejs.org) and [**Express**](https://expressjs.com/) are used to build the application server
 * [**React**](https://reactjs.org) is used to build the client-side/User Interface 
